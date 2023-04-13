@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "plaggysMusikManager/1.0.0": {
+      "plaggtify2.0/1.0.0": {
         "dependencies": {
           "NAudio": "2.1.0"
         },
         "runtime": {
-          "plaggysMusikManager.dll": {}
+          "plaggtify2.0.dll": {}
         }
       },
       "Microsoft.NETCore.Platforms/3.1.0": {},
@@ -112,7 +112,7 @@
     }
   },
   "libraries": {
-    "plaggysMusikManager/1.0.0": {
+    "plaggtify2.0/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
